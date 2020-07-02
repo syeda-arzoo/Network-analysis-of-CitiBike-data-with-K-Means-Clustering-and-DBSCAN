@@ -1,8 +1,7 @@
 # Network-analysis-of-CitiBike-data-with-K-Means-Clustering-and-DBSCAN
 
 This repository examines the CitiBike data using network science methods and clustering techniques.
-The data is available at https://www.citibikenyc.com/system-data and 
-the trip history data is available at https://s3.amazonaws.com/tripdata/index.html (JC-201910-citibike-tripdata.csv.zip Nov 5th, 2019, 05:10:56 pm was used in this experiment).
+The data is available at https://www.citibikenyc.com/system-data and the trip history data is available at https://s3.amazonaws.com/tripdata/index.html (JC-201910-citibike-tripdata.csv.zip Nov 5th, 2019, 05:10:56 pm was used in this experiment).
 The bike station network is further analyzed using K-means clustering and DBSCAN.
 
 The file consisted of the following attributes -
